@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MI+NOTTAWASEPPI+HURON+BAND+OF+THE+POTAWATOM",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MI+NOTTAWASEPPI+HURON+BAND+OF+THE+POTAWATOM",
+  "title": "Federal Register - MI NOTTAWASEPPI HURON BAND OF THE POTAWATOM",
+  "fetched_at": "2026-11-23T17:42:01.058948Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "90fa52aa3d264d6577b9d75ec289e778121a4b8947d7621436ff721413f13c02",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
